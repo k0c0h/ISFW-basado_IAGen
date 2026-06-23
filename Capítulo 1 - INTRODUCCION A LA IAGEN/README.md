@@ -4,8 +4,8 @@ Esta carpeta contiene las fuentes bibliográficas, documentos de apoyo y resúme
 
 ## Contenido
 
-* **Fuentes/**: Contiene los libros, artículos científicos, informes técnicos y demás documentos utilizados como base para la investigación del capítulo.
-* **Markdown/**: Incluye las fuentes transformadas a formato `.md` para facilitar su procesamiento mediante NotebookLM.
+* **Fuentes/**: Contiene los libros, artículos científicos, informes técnicos y demás documentos utilizados como base para la investigación del capítulo tanto en 
+**pdf/** como en  **markdown/**
 * **Resúmenes/**: Contiene los resúmenes solicitados.
 
 ## Subtemas del capítulo
