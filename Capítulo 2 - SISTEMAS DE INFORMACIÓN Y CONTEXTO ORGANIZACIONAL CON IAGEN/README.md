@@ -119,6 +119,3 @@ Analizar la evolución de los Sistemas de Información dentro del contexto organ
 9. Elaborar figuras, tablas y recursos gráficos que apoyen la explicación de los conceptos desarrollados en el capítulo.
 
 10. Mantener una trazabilidad clara entre cada afirmación del texto y las fuentes utilizadas para sustentarla.
-
-
-**Responsable del capítulo:** Alexander Villacres.
