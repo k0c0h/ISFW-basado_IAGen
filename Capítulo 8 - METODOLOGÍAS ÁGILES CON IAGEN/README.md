@@ -1,1 +1,0 @@
-# ISFW-basado_IAGen - Capítulo 8
