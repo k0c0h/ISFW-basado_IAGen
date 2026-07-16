@@ -1,5 +1,7 @@
 # Capítulo 8: Metodologías Ágiles con IAGen
 
+Link Editable Word: https://docs.google.com/document/d/17tVnp9pFFNggrPzQlrY37XVYVMNNnczmfu8cYIrJxqo/edit?usp=sharing
+
 Esta carpeta contiene las fuentes bibliográficas, documentos de apoyo y resúmenes correspondientes al **Capítulo 8: Metodologías Ágiles con IAGen** del libro de ISFW basado en IAGen.
 
 ## Contenido
